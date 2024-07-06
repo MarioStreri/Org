@@ -14,7 +14,11 @@ const Footer = () => {
             </a>
         </div>
         <img src='/img/Logo.png' alt='org' />
-        <strong>Desarrollado por Alura</strong>
+        <div>
+            <strong>Desarrollado en Alura</strong>
+            <p>Mario Streri</p>
+        </div>
+        
     </footer>
 }
 
